@@ -2,7 +2,7 @@
   Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<br>s
+<br>
 - I am Diana; thanks for visiting my GitHub profile!
 - I am mexican 🇲🇽 / american 🇺🇸 currently living in Barcelona 🇪🇸!
 - I have a hsopitality background and worked in the industry for over 5 years👩🏻‍🍳; a couple of months ago 
