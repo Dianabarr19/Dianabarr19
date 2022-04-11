@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dianabarr19&theme=tokyonight)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dianabarr19&theme=tokyonight)](https://github.com/Dianabarr19/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianabarr19&layout=compact&theme=tokyonight)](https://github.com/Dianabarr19/github-readme-stats)
 
