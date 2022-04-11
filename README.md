@@ -3,11 +3,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <br>
-- I am Diana; thanks for visiting my GitHub profile!
-- I am mexican 🇲🇽 / american 🇺🇸 currently living in Barcelona 🇪🇸!
-- I have a hsopitality background and worked in the industry for over 5 years👩🏻‍🍳; a couple of months ago 
-I stepped out of my comfort zone and joined the Tech industry and now I am a junior front end developer👩🏻‍💻!
-- 🌱 I’m currently learning React and Redux 🤓
+
+<ul>
+  <li> I am Diana; thanks for visiting my GitHub profile! </li>
+  <li>I am mexican 🇲🇽 / american 🇺🇸 currently living in Barcelona 🇪🇸! </li>
+  <li>I have a hsopitality background and worked in the industry for over 5 years👩🏻‍🍳; a couple of months ago <s>
+I stepped out of my comfort zone and joined the Tech industry and now I am a junior front end developer👩🏻‍💻!</li>
+  <li> 🌱 I’m currently learning React and Redux 🤓 </li>
+</ul>
 
 <!---
 Dianabarr19/Dianabarr19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
