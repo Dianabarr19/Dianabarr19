@@ -9,13 +9,14 @@
   <li>I have a hsopitality background and worked in the industry for over 5 years👩🏻‍🍳; a couple of months ago
 I stepped out of my comfort zone and joined the Tech industry and now I am a junior front end developer👩🏻‍💻!</li>
   <li> 🌱 I’m currently learning React and Redux 🤓 </li>
+  <li>Don't be a stranger, reach me out👇🏻</li>
 </ul>
 
 <!---
 Dianabarr19/Dianabarr19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dianabarroso/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
