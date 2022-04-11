@@ -7,7 +7,7 @@
 <ul>
   <li> I am Diana; thanks for visiting my GitHub profile! </li>
   <li>I am mexican 🇲🇽 / american 🇺🇸 currently living in Barcelona 🇪🇸! </li>
-  <li>I have a hsopitality background and worked in the industry for over 5 years👩🏻‍🍳; a couple of months ago <s>
+  <li>I have a hsopitality background and worked in the industry for over 5 years👩🏻‍🍳; a couple of months ago
 I stepped out of my comfort zone and joined the Tech industry and now I am a junior front end developer👩🏻‍💻!</li>
   <li> 🌱 I’m currently learning React and Redux 🤓 </li>
 </ul>
