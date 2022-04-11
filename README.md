@@ -6,7 +6,6 @@
 ### :woman_technologist: About Me :
 
 <ul>
-  <li> Thanks for visiting my GitHub profile! </li>
   <li>I am mexican 🇲🇽 / american 🇺🇸 currently living in Barcelona 🇪🇸! </li>
   <li>I have a hsopitality background and worked in the industry for over 5 years👩🏻‍🍳; a couple of months ago
 I stepped out of my comfort zone and joined the Tech industry and now I am a junior front end developer👩🏻‍💻!</li>
@@ -23,6 +22,10 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+<ul>
+    <li> Thanks for visiting my GitHub profile; until next time💪🏻! </li>
+</ul>
 
 <hr>
     
