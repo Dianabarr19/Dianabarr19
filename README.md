@@ -2,7 +2,6 @@
   Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<br>
 
 <ul>
   <li> I am Diana; thanks for visiting my GitHub profile! </li>
