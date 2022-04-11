@@ -45,6 +45,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianabarr19&layout=compact&theme=tokyonight)](https://github.com/Dianabarr19/github-readme-stats)
 
-<h2>
+<hr>
+
+<h3>
     Thanks for visiting my GitHub profile; until next time💪🏻!
-</h2>
+</h3>
