@@ -24,10 +24,10 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-<hr
-    size="5" 
-    align="center">>
-
+<hr width="70%" 
+    size="20" 
+    align="center">
+    
 ### :hammer_and_wrench: Languages and Tools :
   <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
