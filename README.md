@@ -38,6 +38,6 @@ You can click the Preview link to take a look at your changes.
   </div>
 
 <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianabarr19&layout=compact)](https://github.com/dianabarr19/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianabarr19&exclude_repo=github-readme-stats,Dianabarr19.github.io)](https://github.com/Dianabarr19/github-readme-stats)
 </div>
 
