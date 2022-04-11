@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
+hr {width: 60%;margin-left: auto;margin-right: auto;}
 
 ### :hammer_and_wrench: Languages and Tools :
   <div>
