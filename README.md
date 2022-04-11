@@ -24,7 +24,9 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-<hr>
+<hr
+    size="5" 
+    align="center">>
 
 ### :hammer_and_wrench: Languages and Tools :
   <div>
