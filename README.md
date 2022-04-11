@@ -8,4 +8,8 @@ I stepped out of my comfort zone and joined the Tech industry and now I am a jun
 Dianabarr19/Dianabarr19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://img.shields.io/badge/LinkedIn-blue
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
