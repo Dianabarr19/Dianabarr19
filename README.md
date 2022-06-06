@@ -1,6 +1,6 @@
 <h1>
   Hello there, I am Diana
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/>
 </h1>
 
 ### :woman_technologist: About Me :
