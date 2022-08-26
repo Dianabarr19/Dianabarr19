@@ -7,7 +7,7 @@
 <ul>
   <li>I am mexican 🇲🇽 / american 🇺🇸 currently living in Barcelona 🇪🇸! </li>
   <li>I have a hospitality background and worked in the industry for over 5 years👩🏻‍🍳; a couple of months ago
-I stepped out of my comfort zone and joined the Tech industry and now I am a junior full stack developer👩🏻‍💻! But it is also true that I have more affinity with frontend 🎨</li>
+I stepped out of my comfort zone and joined the Tech industry and now I am a junior full stack developer👩🏻‍💻! But I have more affinity with frontend 🎨</li>
   <li> 🌱 I’m currently learning React and Redux 🤓 </li>
   <li>Don't be a stranger, reach out to me👇🏻</li>
 </ul>
