@@ -5,10 +5,10 @@
 ### :woman_technologist: About Me :
 
 <ul>
-  <li>I am mexican 🇲🇽 / american 🇺🇸 currently living in Barcelona 🇪🇸! </li>
+  <li>🇲🇽 | 🇺🇸 | 🇪🇸 </li>
   <li>I have a hospitality background and worked in the industry for over 5 years👩🏻‍🍳; 
-in 2021 I joined the Tech industry and now I am a junior full-stack developer👩🏻‍💻! But I have more affinity with fron-tend 🎨</li>
-  <li> 🌱 I’m currently learning React and Redux 🤓 </li>
+in 2021 I joined the Tech industry and now I am a junior fron-tend developer👩🏻‍💻🎨!</li>
+  <li> 🌱 I’m currently deepening my understanding of JavaScript and its frameworks🤓</li>
   <li>Don't be a stranger, reach out to me👇🏻</li>
 </ul>
 
